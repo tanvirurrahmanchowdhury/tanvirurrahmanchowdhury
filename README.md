@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Computational Physics/Chemistry | Molecular Dynamics | Data-driven Material/Molecule Discovery</p>
+<p align="left">Computational Physics/Chemistry | Molecular Dynamics | Data-driven Material/Molecule Discovery | Electronic Structure Theory</p>
 
 ###
 
